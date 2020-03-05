@@ -1,8 +1,3 @@
-<h1 align="center"> 
-  <img src="https://github.com/eltonlazzarin/portfolio-page/blob/master/screenshots/mainpage.png" alt="Logo" />
-  <br>
-</h1>
-
 <h4 align="center">
   Simple web project that consists of a portfolio that shows the projects made on video that can be adapted to your needs
 </h4>
@@ -16,7 +11,7 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/portfolio-page">
 
 <p align="center">
-<img alt="Main Page" src="https://github.com/eltonlazzarin/doe-web-app/blob/master/screenshots/bloodproject.gif">
+<img alt="Main Page" src="https://github.com/eltonlazzarin/portfolio-page/blob/master/screenshots/mainpage.png">
 
 ## :rocket: Backend Technologies
 
