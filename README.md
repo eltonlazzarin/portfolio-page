@@ -50,7 +50,7 @@ $ yarn start
 Open http://localhost:5000 in your browser
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
